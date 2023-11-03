@@ -1,10 +1,10 @@
 **👋 Hi, I'm Abhinav Raj**
 
-**👀 I'm interested in Web Development, and I'm currently learning MERN.**
+**👀 interested in Web Development, and I'm currently learning MERN.**
 
-**🌱 I'm looking to collaborate on Full Stack Web Development projects.**
+**🌱 looking to collaborate on Full Stack Web Development projects.**
 
-**💞️ I'm also skilled in Java. Love to work with it**
+**💞️ also skilled in Java. Love to work with it**
 
 **📫 How to reach me:**
  email: abhinav.ponnamaina@gmail.com
