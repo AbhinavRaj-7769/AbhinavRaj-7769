@@ -1,6 +1,6 @@
 **👋 Hi, Abhinav here..!**
 
-**👀 interested in Web Development, and currently having my hands on MERN Stack.**
+**👀 interested in Web Development, and currently working on MERN Stack.**
 
 **🌱 looking to collaborate on Full Stack Web Development projects.**
 
