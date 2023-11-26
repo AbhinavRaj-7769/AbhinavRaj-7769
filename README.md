@@ -4,7 +4,7 @@
 
 **🌱 looking to collaborate on Full Stack Web Development projects.**
 
-**💞️ skilled at Java. Love to work on it**
+**☕ skilled at Java. Love to work on it**
 
 **📫 How to reach me:**
  email: abhinav.ponnamaina@gmail.com
