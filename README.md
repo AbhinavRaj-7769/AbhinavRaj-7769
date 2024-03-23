@@ -1,8 +1,13 @@
 👋 Hey there! I'm Abhina, a web developer with a strong foundation in the MERN stack.
+
 🚀 I specialize in crafting dynamic user interfaces using React, while also delving deeper into server-side development and database management with Node.js, Express, and MongoDB.
+
 💡 I thrive on learning and staying abreast of the latest industry trends, always eager to incorporate new technologies and techniques into my workflow.
+
 🌟 Detail-oriented and quick to adapt, I'm passionate about collaborating within dynamic teams, where I can both contribute my skills and learn from experienced developers.
+
 🔭 Currently exploring innovative solutions and seeking opportunities to grow and make meaningful contributions in the ever-evolving world of web development
+
 **📫 How to reach me:**
  email: abhinav.ponnamaina@gmail.com
 
