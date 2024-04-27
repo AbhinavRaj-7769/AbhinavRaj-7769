@@ -1,4 +1,4 @@
-👋 Hey there! I'm AbhinaV, a web developer with a strong foundation in the MERN stack.
+👋 Hey there! I'm Abhinav, a web developer with a strong foundation in the MERN stack.
 
 🚀 Specialized in crafting dynamic user interfaces using React, while also delving deeper into server-side development and database management with Node.js, Express, and MongoDB.
 
